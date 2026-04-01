@@ -9,7 +9,7 @@ License: MIT +file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
-URL: https://linnykos.github.io/561_s2025_example/
+URL: https://linnykos.github.io/561_s2025_example/, https://linnykos.github.io/561_s2026_example/
 VignetteBuilder: knitr
 Imports:
     dplyr,
