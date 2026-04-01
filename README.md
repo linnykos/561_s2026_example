@@ -4,23 +4,23 @@ output: github_document
 
 # Purpose
 
-This is a demo package for UW BIOST 561 (Spring 2025), taught by Kevin Lin.
+This is a demo package for UW BIOST 561 (Spring 2026), taught by Kevin Lin.
 
-- The URL to the GitHub (i.e., the source code) is: https://github.com/linnykos/561_s2025_example
-- The URL to the Pkgdown webpage is: https://linnykos.github.io/561_s2025_example/
+- The URL to the GitHub (i.e., the source code) is: https://github.com/linnykos/561_s2026_example
+- The URL to the Pkgdown webpage is: https://linnykos.github.io/561_s2026_example/
 
 # How to install
-This package is called `UW561S2025Example`. To install, run the following code (in R):
+This package is called `UWBiost561`. To install, run the following code (in R):
 
 ```R
 library(devtools)
-devtools::install_github("linnykos/561_s2025_example")
+devtools::install_github("linnykos/561_s2026_example")
 ```
 
 Upon completion, you can run the following code (in R):
 ```R
-library(UW561S2025Example)
-UW561S2025Example::run_example()
+library(UWBiost561)
+UWBiost561::run_example()
 ```
 
 # Dependencies

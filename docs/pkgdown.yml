@@ -1,6 +1,6 @@
-pandoc: '3.2'
-pkgdown: 2.1.1
+pandoc: 3.6.3
+pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
-  UW561S2024Example: UW561S2024Example.html
-last_built: 2025-04-02T14:06Z
+  UWBiost561: UWBiost561.html
+last_built: 2026-04-01T14:48Z

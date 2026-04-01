@@ -1,4 +1,4 @@
 library(testthat)
-library(UW561S2024Example)
+library(UWBiost561)
 
-test_check("UW561S2024Example")
+test_check("UWBiost561")

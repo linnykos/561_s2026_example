@@ -26,9 +26,9 @@ This is a demo vignette for our package. We will generate 2-dimensional data tha
 The following lines of code runs the entire example (simulating the data, running the EM algorithm, and computing the probabilities that each sample is drawn from each Gaussian cluster).
 
 ```{r}
-library(UW561S2025Example)
+library(UWBiost561)
 set.seed(10)
-res <- UW561S2025Example::run_example()
+res <- UWBiost561::run_example()
 ```
 
 # Plotting the data 
