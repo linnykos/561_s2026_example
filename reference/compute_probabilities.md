@@ -1,7 +1,6 @@
 # Compute the probabilites after EM
 
-Specifically, compute the probabilities of each sample originating from
-the Spherical Gaussian (after running `EM_spherical_gaussians`)
+(This is a demo)
 
 ## Usage
 
@@ -36,6 +35,11 @@ compute_probabilities(data, means, variances, proportions)
 a matrix of `n` by `k`, where each row denotes the probability that each
 sample was drawn from that cluster. Each row sums to 1 and is
 non-negative
+
+## Details
+
+Specifically, compute the probabilities of each sample originating from
+the Spherical Gaussian (after running `EM_spherical_gaussians`)
 
 ## Examples
 
