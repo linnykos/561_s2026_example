@@ -26,6 +26,9 @@ probability that each sample was drawn from that cluster. Each row sums to 1
 and is non-negative
 }
 \description{
+(This is a demo)
+}
+\details{
 Specifically, compute the probabilities of each sample originating from the
 Spherical Gaussian (after running \code{EM_spherical_gaussians})
 }

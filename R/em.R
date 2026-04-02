@@ -72,7 +72,9 @@ EM_spherical_gaussians <- function(data,
               log_likelihood = log_likelihood_old))
 }
 
-#' Compute the probabilites after EM
+#' Compute the probabilites after EM 
+#' 
+#' (This is a demo)
 #'
 #' Specifically, compute the probabilities of each sample originating from the
 #' Spherical Gaussian (after running \code{EM_spherical_gaussians})
