@@ -251,4 +251,8 @@ Your feedback can help us shape the course for the rest of this quarter and
 future years. Please be mindful and polite when providing feedback.
 You may leave this question blank.
 
+```{r}
+"This is my optional answer"
+```
+
 
