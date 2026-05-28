@@ -1,0 +1,10 @@
+pandoc: 3.8.3
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  HW1: HW1.html
+  UWBiost561: UWBiost561.html
+last_built: 2026-05-28T04:18Z
+urls:
+  reference: https://linnykos.github.io/561_s2026_example/reference
+  article: https://linnykos.github.io/561_s2026_example/articles
