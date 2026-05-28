@@ -18,4 +18,4 @@ Imports:
     mvtnorm,
     tibble
 Suggests:
-    testthat, knitr, markdown
+    testthat, knitr, markdown, bookdown
